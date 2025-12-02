@@ -19,4 +19,3 @@ i dunno
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Nazar3112/Nazar3112/output/pacman-contribution-graph.svg">
 </picture>
 
-_generated with pacman-contribution-graph_
